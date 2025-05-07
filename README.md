@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=Venom&height=200&text=Ryu's%20Repository&fontSize=50&fontAlign=50&stroke=000000)
+![header](https://capsule-render.vercel.app/api?type=Venom&height=350&text=Ryu's%20Repository&fontSize=50&fontAlign=50&stroke=000000)
 
 
 ## 👩‍💻 Profile
@@ -16,9 +16,6 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Bokyung-R&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      _
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bokyung-R&layout=compact&theme=radical" />
