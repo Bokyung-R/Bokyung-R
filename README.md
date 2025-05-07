@@ -49,7 +49,7 @@
 ---
 
 ## 🚀 Project List
-
-- 📌 윈앱으로 가계부만들기 [C#](https://github.com/Bokyung-R/WinApp_toyproject)
+- 📌 Arduino를 활용한 수면환경 제어 시스템 : [https://github.com/GiveMeJobGroup/2025-IoT-MiniProject]
+- 📌 윈앱으로 가계부만들기 : [github](https://github.com/Bokyung-R/WinApp_toyproject)
 
 
