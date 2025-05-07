@@ -50,8 +50,6 @@
 
 ## 🚀 Project List
 
-> (여기에 프로젝트를 리스트로 추가해 주세요. 예시👇)  
-- 📌 Smart Life Jacket System  
-- 📌 IoT Sensor Monitoring with ESP32  
-- 📌 Web-based Budget Tracker  
+- 📌 윈앱으로 가계부만들기 [C#](https://github.com/Bokyung-R/WinApp_toyproject)
+
 
