@@ -1,28 +1,11 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=Venom&height=350&text=Ryu's%20Repository&fontSize=50&fontAlign=50&stroke=000000)
+![header](https://capsule-render.vercel.app/api?type=blur&height=350&color=gradient&text=Ryu's%20Repository&reversal=false&section=header&textBg=false&fontAlign=50&animation=fadeIn&fontColor=3f568b)
 
 
 ## 👩‍💻 Profile
 - **Name** : Ryu Bokyung (Leah)
 - **Email** : dbqhrud5789@naver.com
-
----
-
-## 📊 GitHub Stats and Language
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bokyung-R&theme=github-compact)
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Bokyung-R&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bokyung-R&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
-
+- **Scheel**
 
 ---
 
@@ -47,6 +30,23 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats and Language
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bokyung-R&theme=github-compact)
+
+
+## 👨🏻‍💻 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bokyung-R&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bokyung-R&layout=compact)](https://github.com/delay-100/github-readme-stats)
+
+<br><br>
+
+
+---
+
+
+
 
 ## 🚀 Project List
 - 📌 Arduino를 활용한 수면환경 제어 시스템 : [github](https://github.com/GiveMeJobGroup/2025-IoT-MiniProject)
