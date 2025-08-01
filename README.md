@@ -5,7 +5,7 @@
 ## 👩‍💻 Profile
 - **Name** : Ryu Bokyung (Leah)
 - **Email** : dbqhrud5789@naver.com
-- **Page** : https://bokyung-r.github.io/
+- **WebPage** : https://bokyung-r.github.io
 
 
 ---
@@ -47,20 +47,37 @@
 
 ---
 
-
 ## 📈 Projects
-### Arduino를 활용한 수면환경 제어 시스템 : [github](https://github.com/GiveMeJobGroup/2025-IoT-MiniProject)
+
+### 대표 프로젝트
+
+#### 스마트홈 연동 모니터링 앱 : [github](https://github.com/Bokyung-R/IoT-smarthome/tree/main)
+  **MQTT 기반으로 IoT 센서 데이터를 실시간 모니터링하는 스마트홈 WPF 앱**
+  - **목표** : 스마트홈 기기에서 수집한 센서 데이터를 MQTT로 수신하여 WPF에서 실시간 시각화
+  - **주요 기능** : 전등/온도/습도/침입감지 등 센서 모니터링, MQTT 브로커 연동, MVVM 아키텍처 적용
+  - **사용 기술** : C#(WPF), MQTT, MySQL, Arduino, Raspberry Pi
+
+#### MES 공정관리 시뮬레이션 시스템 : [github](https://github.com/Bokyung-R/IoT-miniproject-2025/tree/main/miniproject2)
+  **MQTT 기반 IoT 시뮬레이터와 연동되는 MES 공정관리 시스템 구현 프로젝트**
+  - **목표** : 공정 계획 수립부터 실시간 공정 모니터링, 양/불량 판별 및 결과 저장까지 통합 시스템 구현
+  - **주요 기능** 
+    - MQTT 센서 데이터 수신 및 DB 저장
+    - 가상 IoT 시뮬레이터를 통한 공정 애니메이션
+    - 실시간 공정 상태 표시 및 리포트 시각화
+    - WPF MVVM 기반 UI와 DB CRUD 기능
+  - **사용 기술** : C#(WPF), MQTT, MySQL
+
+#### Arduino를 활용한 수면환경 제어 시스템 : [github](https://github.com/GiveMeJobGroup/2025-IoT-MiniProject)
   **수면 단계 측정을 통해 주변 환경을 자동으로 제어하여 질 높은 수면 유도**
   - **목표** : 실시간 수면 상태를 분석하고 단계별로 환경(조명, 소리 등) 자동 제어
   - **역할** : 데이터베이스 설계 및 관리, 수면 데이터 시각화, 서버 구축 및 연동
   - **사용 기술** : Python, C/C++, Arduino, MySQL
 
-### 윈앱으로 가계부만들기 : [github](https://github.com/Bokyung-R/WinApp_toyproject)
-  **WinForm 학습 내용을 바탕으로 구현한 데스크탑 가계부 토이 프로젝트**
-  - **목표** : WinForm 기술 습득 후, 실제 프로그램 형태로 응용 및 구현 경험 축적
-  - **주요 기능** : 수입/지출 등록, 일자별 내역 조회, 월간 통계
-  - **사용 기술** : C#, .NET, Windows Forms
-
+### 기타 프로젝트 리포지토리
+- **영화 즐겨찾기 앱** : [github](https://github.com/Bokyung-R/WPF-Moviefinder)
+- **부산광역시 부산맛집 정보앱** : [github](https://github.com/Bokyung-R/WPF-Busanfood)
+- **윈앱으로 가계부만들기** : [github](https://github.com/Bokyung-R/WinApp_toyproject)
+- **토이프로젝트 문화센터 웹** : [github](https://github.com/Bokyung-R/Web-CmunityCenter-Toy)
 
 ---
 
