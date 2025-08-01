@@ -5,6 +5,7 @@
 ## 👩‍💻 Profile
 - **Name** : Ryu Bokyung (Leah)
 - **Email** : dbqhrud5789@naver.com
+- **Page** : https://bokyung-r.github.io/
 
 
 ---
